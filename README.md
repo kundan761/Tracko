@@ -32,7 +32,6 @@
 <li class="my-0"><a href="#prerequisites">Prerequisites</a></li>
 <li class="my-0"><a href="#installation">Installation</a></li>
 <li class="my-0"><a href="#usage">Usage</a></li>
-<li class="my-0"><a href="#testing">Testing</a></li>
 </ul>
 </li>
 </ul>
@@ -81,10 +80,5 @@
 <p>Run the project with:</p>
 <p><strong>Using <a href="https://www.npmjs.com/">npm</a>:</strong></p>
 <pre><code class="language-sh">npm start
-</code></pre>
-<h3>Testing</h3>
-<p>Tracko uses the {<strong>test_framework</strong>} test framework. Run the test suite with:</p>
-<p><strong>Using <a href="https://www.npmjs.com/">npm</a>:</strong></p>
-<pre><code class="language-sh">npm test
 </code></pre>
 <hr>
